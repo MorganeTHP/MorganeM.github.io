@@ -1,7 +1,5 @@
 Lien en production :
-
-
-Lien vers ma version du site :
+https://morganethp.github.io/MorganeM.github.io/
 
 Sur ce site , j'ai réalisé une fenêtre popup qui au bout de 10 secondes propose à l'utilisateur de visiter le site xxxvidsxxx. L'utilisateur à le chois d'accepter en cliquant sur "ok" ce qui l'enverra sur cette vidéo YouTube : https://www.youtube.com/watch?v=dQw4w9WgXcQ , en revanche si il qu'il sur "annuler" cela ferme la popup et l'utilisateur peut naviguer sur le site.
 
